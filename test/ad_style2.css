@@ -1,0 +1,30 @@
+* {
+	margin: 0px;
+    padding: 0px;
+    color: white;
+    background-color: darkred;
+}
+
+.txtRojo{
+    text-decoration:none;
+    color:#C93635;
+}	
+.txtBlue{
+    text-decoration:none;
+    color:#003366;
+}
+.tabla{
+    border-collapse: separate;
+    border-spacing: 20px 3px;
+    text-align:center;
+    margin: 0 auto;
+    border:darkred 3.5px solid;
+}
+.center{
+text-align:center;
+}
+.cont{
+width:80%;
+text-align:center;
+margin: 0 auto;
+}

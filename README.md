@@ -9,10 +9,10 @@ HTML Y SQL CUSTOM CON CONEXION PHP EN UNA BASE DE DATOS MYSQL
  ![login](https://user-images.githubusercontent.com/50388714/169122415-555ffb17-8e94-44b5-bab6-0fc653261d12.png)
 
  - Orden
- ![orden](https://user-images.githubusercontent.com/50388714/169122871-2bad7439-e049-493c-b6e2-5af83324571a.png)
+![orden](https://user-images.githubusercontent.com/50388714/169126806-063a6ec4-4b51-46ac-b09c-4876f0fbc8d8.png)
 
  - Confirmacion de Orden
-![factura](https://user-images.githubusercontent.com/50388714/169122910-3df1f9cf-b0f5-4dd7-8c1b-002519325725.png)
+![tiket](https://user-images.githubusercontent.com/50388714/169126931-7b05aa43-0962-4000-8c9d-583de477dc29.png)
 
 - Menu Admin
 ![admin](https://user-images.githubusercontent.com/50388714/169122957-a466b447-6274-4c1c-ba55-f7bace89783a.png)
